@@ -13,3 +13,7 @@ Used Streamlit for deployment
 
 ![streamlit-logo-secondary-colormark-darktext](https://github.com/emre-bl/stock-option-profit-graph/assets/57074947/fa24bb23-1864-4d54-8fea-b4f8b03ee064)
 ![python-logo-only](https://github.com/emre-bl/stock-option-profit-graph/assets/57074947/ac227b52-7662-42d9-b700-97395ee832bb)
+
+<div style="width:60px ; height:60px">
+![streamlit-logo-secondary-colormark-darktext](https://github.com/emre-bl/stock-option-profit-graph/assets/57074947/fa24bb23-1864-4d54-8fea-b4f8b03ee064)
+<div>
